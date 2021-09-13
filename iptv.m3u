@@ -1,5 +1,7 @@
+﻿
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="ᴵᴸ Yes movies drama" tvg-logo="https://www.yes.co.il/_catalogs/masterpage/yes/img/logo.png" group-title="Israel",ᴵᴸ Yes movies drama
-http://mypanel.be:80/1599041856/0362619911/66258siqiwork@163.com
+http://mypanel.be:80/1599041856/0362619911/66258
 #EXTINF:-1 tvg-id="" tvg-name="ᴵᴸ Yes movies action" tvg-logo="https://www.yes.co.il/_catalogs/masterpage/yes/img/logo.png" group-title="Israel",ᴵᴸ Yes movies action
 http://mypanel.be:80/1599041856/0362619911/66257
 #EXTINF:-1 tvg-id="" tvg-name="ᴵᴸ Yes 3" tvg-logo="https://www.yes.co.il/_catalogs/masterpage/yes/img/logo.png" group-title="Israel",ᴵᴸ Yes 3
