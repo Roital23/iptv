@@ -1,139 +1,1183 @@
-#EXTM3U
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",CBS Reality HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/66236?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="https://i.imgur.com/NmnXn2z.jpg" group-title="News",Channel 2 News
-http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/index_2200_av-p.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="https://i.imgur.com/NmnXn2z.jpg" group-title="News",Channel 2 News
-http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="https://i.imgur.com/NmnXn2z.jpg" group-title="News",Channel 2 News
-https://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",Discovery Channel [Geo]
-http://s1-p3.peer5.net/edge/44-1.stream/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",Disney Channel HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/66237?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",Disney Channel [Geo]
-http://s1-p3.peer5.net/edge/41-1.stream/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",Disney Junior HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/66238?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="https://i.imgur.com/8R1UWRw.jpg" group-title="Undefined",Kabbalah for the People (Israel)
-http://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="https://i.imgur.com/8R1UWRw.jpg" group-title="Undefined",Kabbalah for the People (Israel)
-https://edge2.uk.kab.tv/rtplive/tv66-heb-medium.stream/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="https://i.imgur.com/8R1UWRw.jpg" group-title="Undefined",Kabbalah for the People (Israel)
-https://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="https://i.imgur.com/vqfNbEU.png" group-title="Undefined",Kan 11
-https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_2.5k/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/2880px-KanHinuchit.svg.png" group-title="Education;Kids",ch 23 החינוכית,Kan Educational
-https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_2.5k/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",MTV HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/66263?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",Music IL HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/66232?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",Nat Geo HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/66231?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",Nat Geo Wild HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/66230?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",National Geographic [Geo]
-http://s1-p3.peer5.net/edge/13-1.stream/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",Nickelodeon HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/66239?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",Yes 12 Keshet IL
-http://new-pro.tv:8080/Hotel-2021/Allroom/111273?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",Yes 13 Reshet IL
-http://new-pro.tv:8080/Hotel-2021/Allroom/111274?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",Yes Animal Planet HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/66255?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",Yes Channel 2 News
-http://new-pro.tv:8080/Hotel-2021/Allroom/66245?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",Yes Channel 20
-http://new-pro.tv:8080/Hotel-2021/Allroom/66250?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",Yes Channel 21
-http://new-pro.tv:8080/Hotel-2021/Allroom/66248?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",Yes Channel 23
-http://new-pro.tv:8080/Hotel-2021/Allroom/66249?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",Yes Channel 66
-http://new-pro.tv:8080/Hotel-2021/Allroom/111275?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",Yes Channel 9
-http://new-pro.tv:8080/Hotel-2021/Allroom/66246?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",Yes Discovery Channel HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/97716?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",Yes Discovery Science HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/66233?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",Yes Docu HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/66229?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",Yes Fashion
-http://new-pro.tv:8080/Hotel-2021/Allroom/111277?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",Yes Good Life HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/66235?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",Yes Hala TV
-http://new-pro.tv:8080/Hotel-2021/Allroom/66256?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",Yes Hidabroot Channel HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/66258?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",Yes History HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/66234?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",Yes Home +
-http://new-pro.tv:8080/Hotel-2021/Allroom/111276?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",Yes Hop !
-http://new-pro.tv:8080/Hotel-2021/Allroom/66243?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",Yes Investigation Discovery ID HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/66225?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",Yes Israeli Cinema HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/66228?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",Yes Junior HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/92731?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",Yes Kabbalah TV
-http://new-pro.tv:8080/Hotel-2021/Allroom/66257?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",Yes Kan 11
-http://new-pro.tv:8080/Hotel-2021/Allroom/66247?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",Yes Kan 33 [ Makan TV ]
-http://new-pro.tv:8080/Hotel-2021/Allroom/66253?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",Yes Kan Educational HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/66251?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",Yes Kneest 33 HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/66252?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",Yes Me TV
-http://new-pro.tv:8080/Hotel-2021/Allroom/111278?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",Yes Music 24 Israel
-http://new-pro.tv:8080/Hotel-2021/Allroom/66261?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",Yes One 1 HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/66218?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Sport",Yes Sport 1 HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/66209?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Sport",Yes Sport 2 HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/66210?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Sport",Yes Sport 3 HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/66211?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Sport",Yes Sport 4 HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/66212?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Sport",Yes Sport 5 Gold HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/66213?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Sport",Yes Sport 5 HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/66214?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Sport",Yes Sport 5 Live HD [ Live Match ]
-http://new-pro.tv:8080/Hotel-2021/Allroom/66215?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Sport",Yes Sport 5 Plus
-http://new-pro.tv:8080/Hotel-2021/Allroom/66217?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Sport",Yes Sport 5 Stars HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/66216?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",Yes TLC HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/66254?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",Yes TV Action HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/66223?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",Yes TV Comedy HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/92732?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",Yes TV Drama HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/66220?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",Yes TV Kids HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/66240?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",Yes TeenNick HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/66241?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",Yes Viva HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/66259?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",Yes Viva Plus HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/66260?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",Yes Zoom HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/66242?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",Yes i24 News Israel
-http://new-pro.tv:8080/Hotel-2021/Allroom/173693?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",Ynet Live
-https://ynet-lh.akamaihd.net/i/ynet_1@123290/master.m3u8?checkedby:iptvcat.com
+#EXTM3U url-tvg="http://iptv.online/epg/epg.xml.gz"
+#EXTINF:-1 tvg-id="73" tvg-rec="1" tvg-name="Первый HD" timeshift="1" group-title="Россия", Первый HD
+http://cn02.iptv.monster/play/73/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="701" tvg-name="Первый канал (+2)" group-title="Россия", Первый канал (+2)
+http://cn04.iptv.monster/play/701/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="2" tvg-rec="1" tvg-name="Россия 1" timeshift="1" group-title="Россия", Россия 1
+http://cn02.iptv.monster/play/2/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="173" tvg-rec="1" tvg-name="Россия 1 HD" timeshift="1" group-title="Россия", Россия 1 HD
+http://cn02.iptv.monster/play/173/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="702" tvg-name="Россия 1 (+2)" group-title="Россия", Россия 1 (+2)
+http://cn04.iptv.monster/play/702/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="49" tvg-rec="1" tvg-name="Россия-24" timeshift="1" group-title="Россия", Россия-24
+http://cn02.iptv.monster/play/49/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="719" tvg-name="ТНТ (+2)" group-title="Россия", ТНТ (+2)
+http://cn04.iptv.monster/play/719/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="86" tvg-rec="1" tvg-name="ТНТ HD" timeshift="1" group-title="Россия", ТНТ HD
+http://cn02.iptv.monster/play/86/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="ТНТ4" group-title="Россия", ТНТ4
+http://cn04.iptv.monster/play/41/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="627" tvg-rec="1" tvg-name="НТВ Мир" timeshift="1" group-title="Россия", НТВ Мир
+http://cn02.iptv.monster/play/627/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="220" tvg-rec="1" tvg-name="НТВ HD" timeshift="1" group-title="Россия", НТВ HD
+http://cn02.iptv.monster/play/220/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="131" tvg-rec="1" tvg-name="Время" timeshift="1" group-title="Россия", Время
+http://cn04.iptv.monster/play/131/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="301" tvg-rec="1" tvg-name="Санкт-Петербург" timeshift="1" group-title="Россия", Санкт-Петербург
+http://cn02.iptv.monster/play/301/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="163" tvg-name="Москва 24" group-title="Россия", Москва 24
+http://cn02.iptv.monster/play/163/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="111" tvg-rec="1" tvg-name="РЕН HD" timeshift="1" group-title="Россия", РЕН HD
+http://cn02.iptv.monster/play/111/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="711" tvg-name="РЕН ТВ (+2)" group-title="Россия", РЕН ТВ (+2)
+http://cn04.iptv.monster/play/711/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="8" tvg-rec="1" tvg-name="СТС" timeshift="1" group-title="Россия", СТС
+http://cn02.iptv.monster/play/8/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="713" tvg-name="СТС (+2)" group-title="Россия", СТС (+2)
+http://cn04.iptv.monster/play/713/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="284" tvg-rec="1" tvg-name="STS Love" timeshift="1" group-title="Россия", STS Love
+http://cn04.iptv.monster/play/284/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="169" tvg-rec="1" tvg-name="Пятый Канал" timeshift="1" group-title="Россия", Пятый Канал
+http://cn02.iptv.monster/play/169/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="59" tvg-rec="1" tvg-name="Россия-Культура" timeshift="1" group-title="Россия", Россия-Культура
+http://cn02.iptv.monster/play/59/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="3" tvg-rec="1" tvg-name="ТВЦ" timeshift="1" group-title="Россия", ТВЦ
+http://cn02.iptv.monster/play/3/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="34" tvg-name="РБК-ТВ" group-title="Россия", РБК-ТВ
+http://cn02.iptv.monster/play/34/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="9" tvg-rec="1" tvg-name="Пятница" timeshift="1" group-title="Россия", Пятница
+http://cn02.iptv.monster/play/9/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="118" tvg-rec="1" tvg-name="Мир" timeshift="1" group-title="Россия", Мир
+http://cn02.iptv.monster/play/118/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="298" tvg-name="Ю ТВ" group-title="Россия", Ю ТВ
+http://cn04.iptv.monster/play/298/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="170" tvg-rec="1" tvg-name="Телеканал Звезда" timeshift="1" group-title="Россия", Телеканал Звезда
+http://cn02.iptv.monster/play/170/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="115" tvg-rec="1" tvg-name="Домашний" timeshift="1" group-title="Россия", Домашний
+http://cn02.iptv.monster/play/115/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="3779" tvg-name="Первый Крымский" group-title="Россия", Первый Крымский
+http://cn04.iptv.monster/play/3779/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="КРЫМ 24" group-title="Россия", КРЫМ 24
+http://cn04.iptv.monster/play/3904/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="321" tvg-rec="1" tvg-name="Москва-доверие" timeshift="1" group-title="Россия", Москва-доверие
+http://cn04.iptv.monster/play/321/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-rec="1" tvg-name="Сочи HD" timeshift="1" group-title="Россия", Сочи HD
+http://cn04.iptv.monster/play/325/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="323" tvg-rec="1" tvg-name="ВМЕСТЕ-РФ" timeshift="1" group-title="Россия", ВМЕСТЕ-РФ
+http://cn04.iptv.monster/play/323/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="400" tvg-rec="1" tvg-name="1+1" timeshift="1" group-title="Украинские", 1+1
+http://cn02.iptv.monster/play/400/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="656" tvg-name="2+2" group-title="Украинские", 2+2
+http://cn02.iptv.monster/play/656/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="647" tvg-rec="1" tvg-name="ICTV" timeshift="1" group-title="Украинские", ICTV
+http://cn02.iptv.monster/play/647/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="908" tvg-rec="1" tvg-name="Україна" timeshift="1" group-title="Украинские", Україна
+http://sn202.iptv.monster/play/908/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="651" tvg-rec="1" tvg-name="Новий канал" timeshift="1" group-title="Украинские", Новий канал
+http://cn02.iptv.monster/play/651/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="646" tvg-name="UA:Перший" group-title="Украинские", UA:Перший
+http://cn02.iptv.monster/play/646/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="401" tvg-name="СТБ" group-title="Украинские", СТБ
+http://cn02.iptv.monster/play/401/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="402" tvg-name="НТН" group-title="Украинские", НТН
+http://cn02.iptv.monster/play/402/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="404" tvg-rec="1" tvg-name="Интер" timeshift="1" group-title="Украинские", Интер
+http://cn02.iptv.monster/play/404/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="405" tvg-name="ТЕТ" group-title="Украинские", ТЕТ
+http://cn02.iptv.monster/play/405/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="645" tvg-name="К1" group-title="Украинские", К1
+http://cn02.iptv.monster/play/645/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="652" tvg-name="К2" group-title="Украинские", К2
+http://cn02.iptv.monster/play/652/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="406" tvg-rec="1" tvg-name="5 канал ПЕРШИЙ.УКРАЇНСЬКИЙ. ІНФОРМАЦІЙНИЙ" timeshift="1" group-title="Украинские", 5 канал ПЕРШИЙ.УКРАЇНСЬКИЙ. ІНФОРМАЦІЙНИЙ
+http://cn02.iptv.monster/play/406/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="408" tvg-name="Eспресо TV" group-title="Украинские", Eспресо TV
+http://cn02.iptv.monster/play/408/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="988" tvg-rec="1" tvg-name="Дождь" timeshift="1" group-title="Украинские", Дождь
+http://cn02.iptv.monster/play/988/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="News Network" group-title="Украинские", News Network
+http://cn04.iptv.monster/play/633/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="2603" tvg-rec="1" tvg-name="Громадьске ТВ" timeshift="1" group-title="Украинские", Громадьске ТВ
+http://cn04.iptv.monster/play/2603/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="2605" tvg-rec="1" tvg-name="Прямий HD" timeshift="1" group-title="Украинские", Прямий HD
+http://cn04.iptv.monster/play/2605/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="2606" tvg-rec="1" tvg-name="ЧП.ТВ" timeshift="1" group-title="Украинские", ЧП.ТВ
+http://cn04.iptv.monster/play/2606/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="407" tvg-name="112 Украина" group-title="Украинские", 112 Украина
+http://cn02.iptv.monster/play/407/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="2627" tvg-name="Квартал ТВ" group-title="Украинские", Квартал ТВ
+http://cn02.iptv.monster/play/2627/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="654" tvg-name="Мега" group-title="Украинские", Мега
+http://cn02.iptv.monster/play/654/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Максi ТВ" group-title="Украинские", Максi ТВ
+http://cn02.iptv.monster/play/642/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="648" tvg-name="Enter-фільм" group-title="Украинские", Enter-фільм
+http://cn02.iptv.monster/play/648/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Канал 34" group-title="Украинские", Канал 34
+http://cn04.iptv.monster/play/977/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Етно HD" group-title="Украинские", Етно HD
+http://cn04.iptv.monster/play/1595/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="2625" tvg-rec="1" tvg-name="Бігуді" timeshift="1" group-title="Украинские", Бігуді
+http://cn04.iptv.monster/play/2625/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="2600" tvg-rec="1" tvg-name="Первый Автомобильный" timeshift="1" group-title="Украинские", Первый Автомобильный
+http://cn04.iptv.monster/play/2600/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="653" tvg-name="Zoom" group-title="Украинские", Zoom
+http://cn04.iptv.monster/play/653/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="637" tvg-name="КРТ" group-title="Украинские", КРТ
+http://cn04.iptv.monster/play/637/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="109" tvg-rec="1" tvg-name="Че!" timeshift="1" group-title="Украинские", Че!
+http://cn04.iptv.monster/play/109/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="2604" tvg-rec="1" tvg-name="Zik HD" timeshift="1" group-title="Украинские", Zik HD
+http://cn04.iptv.monster/play/2604/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="658" tvg-name="Business" group-title="Украинские", Business
+http://cn04.iptv.monster/play/658/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="9990" tvg-name="Kinoshka 1" group-title="Кино", Kinoshka 1
+http://cn02.iptv.monster/play/9990/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-rec="1" tvg-name="TV1000 HD" timeshift="1" group-title="Кино", TV1000 HD
+http://cn02.iptv.monster/play/488/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="82" tvg-rec="1" tvg-name="TV1000" timeshift="1" group-title="Кино", TV1000
+http://cn02.iptv.monster/play/82/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-rec="1" tvg-name="TV1000 Action HD" timeshift="1" group-title="Кино", TV1000 Action HD
+http://cn02.iptv.monster/play/487/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="83" tvg-rec="1" tvg-name="TV1000 Action" timeshift="1" group-title="Кино", TV1000 Action
+http://cn02.iptv.monster/play/83/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-rec="1" tvg-name="TV1000 Русское кино HD" timeshift="1" group-title="Кино", TV1000 Русское кино HD
+http://cn02.iptv.monster/play/489/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="81" tvg-rec="1" tvg-name="TV1000 русское кино" timeshift="1" group-title="Кино", TV1000 русское кино
+http://cn02.iptv.monster/play/81/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="194" tvg-rec="1" tvg-name="VIP Comedy" timeshift="1" group-title="Кино", VIP Comedy
+http://cn02.iptv.monster/play/194/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="195" tvg-rec="1" tvg-name="VIP Megahit" timeshift="1" group-title="Кино", VIP Megahit
+http://cn02.iptv.monster/play/195/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="196" tvg-rec="1" tvg-name="VIP Premiere" timeshift="1" group-title="Кино", VIP Premiere
+http://cn02.iptv.monster/play/196/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Paramount Comedy HD" group-title="Кино", Paramount Comedy HD
+http://cn04.iptv.monster/play/382/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="383" tvg-name="Paramount Channel HD" group-title="Кино", Paramount Channel HD
+http://cn04.iptv.monster/play/383/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="181" tvg-rec="1" tvg-name="Paramount Comedy Russia" timeshift="1" group-title="Кино", Paramount Comedy Russia
+http://cn02.iptv.monster/play/181/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Hollywood HD" group-title="Кино", Hollywood HD
+http://cn04.iptv.monster/play/176/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="267" tvg-rec="1" tvg-name="Amedia 1" timeshift="1" group-title="Кино", Amedia 1
+http://cn02.iptv.monster/play/267/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="629" tvg-name="AMEDIA 1 HD" group-title="Кино", AMEDIA 1 HD
+http://cn02.iptv.monster/play/629/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="261" tvg-rec="1" tvg-name="Amedia 2" timeshift="1" group-title="Кино", Amedia 2
+http://cn02.iptv.monster/play/261/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="632" tvg-name="Amedia Hit" group-title="Кино", Amedia Hit
+http://cn02.iptv.monster/play/632/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="187" tvg-name="AMEDIA Premium HD" group-title="Кино", AMEDIA Premium HD
+http://cn02.iptv.monster/play/187/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Amedia premium" group-title="Кино", Amedia premium
+http://cn02.iptv.monster/play/630/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="178" tvg-rec="1" tvg-name="FOX HD" timeshift="1" group-title="Кино", FOX HD
+http://cn02.iptv.monster/play/178/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="179" tvg-rec="1" tvg-name="Fox Life HD" timeshift="1" group-title="Кино", Fox Life HD
+http://cn02.iptv.monster/play/179/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="HD Media" group-title="Кино", HD Media
+http://cn02.iptv.monster/play/192/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="292" tvg-name="Sony HD" group-title="Кино", Sony HD
+http://cn02.iptv.monster/play/292/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="235" tvg-name="Sony Turbo" group-title="Кино", Sony Turbo
+http://cn02.iptv.monster/play/235/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="102" tvg-name="SONY Sci-Fi" group-title="Кино", SONY Sci-Fi
+http://cn02.iptv.monster/play/102/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="85" tvg-rec="1" tvg-name="Sony Entertainment Television " timeshift="1" group-title="Кино", Sony Entertainment Television
+http://cn02.iptv.monster/play/85/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="94" tvg-rec="1" tvg-name="Fox Life" timeshift="1" group-title="Кино", Fox Life
+http://cn02.iptv.monster/play/94/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="95" tvg-rec="1" tvg-name="Fox" timeshift="1" group-title="Кино", Fox
+http://cn02.iptv.monster/play/95/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-rec="1" tvg-name="TV XXI" timeshift="1" group-title="Кино", TV XXI
+http://cn02.iptv.monster/play/84/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-rec="1" tvg-name="КИНОПРЕМЬЕРА HD" timeshift="1" group-title="Кино", КИНОПРЕМЬЕРА HD
+http://cn02.iptv.monster/play/183/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="3738" tvg-rec="1" tvg-name="КИНОКОМЕДИЯ" timeshift="1" group-title="Кино", КИНОКОМЕДИЯ
+http://cn02.iptv.monster/play/3738/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="КИНОСВИДАНИЕ" group-title="Кино", КИНОСВИДАНИЕ
+http://cn02.iptv.monster/play/11/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="КИНОСЕМЬЯ" group-title="Кино", КИНОСЕМЬЯ
+http://cn02.iptv.monster/play/13/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="367" tvg-name="Кинопремиум HD" group-title="Кино", Кинопремиум HD
+http://cn02.iptv.monster/play/367/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="33" tvg-rec="1" tvg-name="КИНОХИТ" timeshift="1" group-title="Кино", КИНОХИТ
+http://cn02.iptv.monster/play/33/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Комедийное" group-title="Кино", Комедийное
+http://cn02.iptv.monster/play/138/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-rec="1" tvg-name="НТВ Сериал" timeshift="1" group-title="Кино", НТВ Сериал
+http://cn04.iptv.monster/play/784/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="129" tvg-name="Кинопоказ" group-title="Кино", Кинопоказ
+http://cn02.iptv.monster/play/129/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Наше любимое HD" group-title="Кино", Наше любимое HD
+http://cn04.iptv.monster/play/499/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Наш кинороман HD" group-title="Кино", Наш кинороман HD
+http://cn04.iptv.monster/play/370/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Наше крутое HD" group-title="Кино", Наше крутое HD
+http://cn04.iptv.monster/play/369/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="368" tvg-name="Остросюжетное HD" group-title="Кино", Остросюжетное HD
+http://cn04.iptv.monster/play/368/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Кино ТВ HD" group-title="Кино", Кино ТВ HD
+http://cn04.iptv.monster/play/381/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Шокирующее" group-title="Кино", Шокирующее
+http://cn02.iptv.monster/play/137/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="371" tvg-rec="1" tvg-name="Страшное HD" timeshift="1" group-title="Кино", Страшное HD
+http://cn04.iptv.monster/play/371/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="Родное кино" group-title="Кино", Родное кино
+http://cn02.iptv.monster/play/12/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="42" tvg-name="Дом Кино" group-title="Кино", Дом Кино
+http://cn02.iptv.monster/play/42/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="96" tvg-name="Еврокино" group-title="Кино", Еврокино
+http://cn02.iptv.monster/play/96/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="172" tvg-name="Русский роман" group-title="Кино", Русский роман
+http://cn02.iptv.monster/play/172/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="201" tvg-name="Русский Иллюзион" group-title="Кино", Русский Иллюзион
+http://cn02.iptv.monster/play/201/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="202" tvg-name="Иллюзион +" group-title="Кино", Иллюзион +
+http://cn02.iptv.monster/play/202/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="35" tvg-name="Наше новое кино" group-title="Кино", Наше новое кино
+http://cn02.iptv.monster/play/35/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="209" tvg-name="Мужское кино" group-title="Кино", Мужское кино
+http://cn02.iptv.monster/play/209/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="484" tvg-name="Перец" group-title="Кино", Перец
+http://cn02.iptv.monster/play/484/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Русская комедия" group-title="Кино", Русская комедия
+http://cn04.iptv.monster/play/280/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="281" tvg-name="Русский бестселлер" group-title="Кино", Русский бестселлер
+http://cn04.iptv.monster/play/281/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="282" tvg-name="Русский детектив" group-title="Кино", Русский детектив
+http://cn04.iptv.monster/play/282/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="167" tvg-name="Киномикс" group-title="Кино", Киномикс
+http://cn04.iptv.monster/play/167/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="208" tvg-name="Киносерия" group-title="Кино", Киносерия
+http://cn04.iptv.monster/play/208/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="342" tvg-rec="1" tvg-name="Любимое кино" timeshift="1" group-title="Кино", Любимое кино
+http://cn04.iptv.monster/play/342/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="291" tvg-rec="1" tvg-name="Мир сериала" timeshift="1" group-title="Кино", Мир сериала
+http://cn04.iptv.monster/play/291/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="223" tvg-name="Cinema" group-title="Кино", Cinema
+http://cn04.iptv.monster/play/223/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="62" tvg-rec="1" tvg-name="Индийское Кино" timeshift="1" group-title="Кино", Индийское Кино
+http://cn04.iptv.monster/play/62/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Феникс кино" group-title="Кино", Феникс кино
+http://cn04.iptv.monster/play/204/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-rec="1" tvg-name="ТВ3" timeshift="1" group-title="Кино", ТВ3
+http://cn04.iptv.monster/play/66/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="93" tvg-rec="1" tvg-name="НСТ" timeshift="1" group-title="Кино", НСТ
+http://cn04.iptv.monster/play/93/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Shot TV" group-title="Кино", Shot TV
+http://cn04.iptv.monster/play/150/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-rec="1" tvg-name="Юрган" timeshift="1" group-title="Кино", Юрган
+http://cn04.iptv.monster/play/191/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="199" tvg-name="ОТР" group-title="Кино", ОТР
+http://cn04.iptv.monster/play/199/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="37" tvg-name="МАТЧ ПРЕМЬЕР" group-title="Спорт", МАТЧ ПРЕМЬЕР
+http://cn02.iptv.monster/play/37/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="250" tvg-rec="1" tvg-name="МАТЧ Премьер HD" timeshift="1" group-title="Спорт", МАТЧ Премьер HD
+http://cn02.iptv.monster/play/250/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="136" tvg-rec="1" tvg-name="Матч Арена" timeshift="1" group-title="Спорт", Матч Арена
+http://cn02.iptv.monster/play/136/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="146" tvg-rec="1" tvg-name="Матч! Арена HD" timeshift="1" group-title="Спорт", Матч! Арена HD
+http://cn02.iptv.monster/play/146/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="397" tvg-rec="1" tvg-name="Матч! HD" timeshift="1" group-title="Спорт", Матч! HD
+http://sn204.iptv.monster/play/397/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="Матч! Планета" group-title="Спорт", Матч! Планета
+http://cn02.iptv.monster/play/14/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="5" tvg-rec="1" tvg-name="Матч ТВ" timeshift="1" group-title="Спорт", Матч ТВ
+http://sn202.iptv.monster/play/5/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="30" tvg-name="МАТЧ! Боец" group-title="Спорт", МАТЧ! Боец
+http://cn02.iptv.monster/play/30/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="134" tvg-rec="1" tvg-name="Матч! Наш спорт" timeshift="1" group-title="Спорт", Матч! Наш спорт
+http://cn02.iptv.monster/play/134/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="153" tvg-rec="1" tvg-name="Матч! Игра" timeshift="1" group-title="Спорт", Матч! Игра
+http://cn02.iptv.monster/play/153/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="268" tvg-rec="1" tvg-name="Матч! Игра HD" timeshift="1" group-title="Спорт", Матч! Игра HD
+http://cn02.iptv.monster/play/268/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="54" tvg-rec="1" tvg-name="Матч Футбол 1" timeshift="1" group-title="Спорт", Матч Футбол 1
+http://sn202.iptv.monster/play/54/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="260" tvg-rec="1" tvg-name="Матч! Футбол 1 HD" timeshift="1" group-title="Спорт", Матч! Футбол 1 HD
+http://sn204.iptv.monster/play/260/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="329" tvg-rec="1" tvg-name="Матч! Футбол 3 HD" timeshift="1" group-title="Спорт", Матч! Футбол 3 HD
+http://sn204.iptv.monster/play/329/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="271" tvg-rec="1" tvg-name="Матч! Футбол 2 HD" timeshift="1" group-title="Спорт", Матч! Футбол 2 HD
+http://sn204.iptv.monster/play/271/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="171" tvg-rec="1" tvg-name="Футбол" timeshift="1" group-title="Спорт", Футбол
+http://cn02.iptv.monster/play/171/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-rec="1" tvg-name="Футбол HD" timeshift="1" group-title="Спорт", Футбол HD
+http://cn02.iptv.monster/play/3920/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="77" tvg-rec="1" tvg-name="Viasat Sport" timeshift="1" group-title="Спорт", Viasat Sport
+http://cn02.iptv.monster/play/77/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="198" tvg-rec="1" tvg-name="Viasat Sport HD" timeshift="1" group-title="Спорт", Viasat Sport HD
+http://cn02.iptv.monster/play/198/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="3922" tvg-rec="1" tvg-name="Eurosport Gold HD" timeshift="1" group-title="Спорт", Eurosport Gold HD
+http://cn04.iptv.monster/play/3922/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="1434" tvg-rec="1" tvg-name="Setanta Sports HD" timeshift="1" group-title="Спорт", Setanta Sports HD
+http://cn04.iptv.monster/play/1434/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-rec="1" tvg-name="Сетанта Спорт" timeshift="1" group-title="Спорт", Сетанта Спорт
+http://cn02.iptv.monster/play/469/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-rec="1" tvg-name="Setanta Eurasia+" timeshift="1" group-title="Спорт", Setanta Eurasia+
+http://cn04.iptv.monster/play/943/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-rec="1" tvg-name="Setanta Eurasia HD" timeshift="1" group-title="Спорт", Setanta Eurasia HD
+http://cn02.iptv.monster/play/942/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="410" tvg-name="Футбол-1" group-title="Спорт", Футбол-1
+http://sn204.iptv.monster/play/410/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="956" tvg-rec="1" tvg-name="Футбол 1 HD" timeshift="1" group-title="Спорт", Футбол 1 HD
+http://sn202.iptv.monster/play/956/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="411" tvg-name="Футбол-2" group-title="Спорт", Футбол-2
+http://sn204.iptv.monster/play/411/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="957" tvg-rec="1" tvg-name="Футбол 2 HD" timeshift="1" group-title="Спорт", Футбол 2 HD
+http://sn202.iptv.monster/play/957/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="15" tvg-rec="1" tvg-name="Eurosport" timeshift="1" group-title="Спорт", Eurosport
+http://cn02.iptv.monster/play/15/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="145" tvg-name="Eurosport HD" group-title="Спорт", Eurosport HD
+http://cn02.iptv.monster/play/145/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="43" tvg-rec="1" tvg-name="Eurosport 2" timeshift="1" group-title="Спорт", Eurosport 2
+http://cn02.iptv.monster/play/43/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="361" tvg-name="Eurosport 2 HD" group-title="Спорт", Eurosport 2 HD
+http://cn02.iptv.monster/play/361/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-rec="1" tvg-name="Super Tennis HD" timeshift="1" group-title="Спорт", Super Tennis HD
+http://cn04.iptv.monster/play/941/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="394" tvg-name="Конный мир HD" group-title="Спорт", Конный мир HD
+http://cn02.iptv.monster/play/394/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="3918" tvg-rec="1" tvg-name="Моторспорт ТВ" timeshift="1" group-title="Спорт", Моторспорт ТВ
+http://cn04.iptv.monster/play/3918/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="149" tvg-rec="1" tvg-name="КХЛ" timeshift="1" group-title="Спорт", КХЛ
+http://cn02.iptv.monster/play/149/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="177" tvg-rec="1" tvg-name="КХЛ HD" timeshift="1" group-title="Спорт", КХЛ HD
+http://cn02.iptv.monster/play/177/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="482" tvg-rec="1" tvg-name="Бокс ТВ" timeshift="1" group-title="Спорт", Бокс ТВ
+http://cn02.iptv.monster/play/482/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-rec="1" tvg-name="Спорт 1" timeshift="1" group-title="Спорт", Спорт 1
+http://cn02.iptv.monster/play/479/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="53" tvg-rec="1" tvg-name="Extreme Sports" timeshift="1" group-title="Спорт", Extreme Sports
+http://cn02.iptv.monster/play/53/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="Авто Плюс" group-title="Спорт", Авто Плюс
+http://cn02.iptv.monster/play/29/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="480" tvg-rec="1" tvg-name="XSPORT" timeshift="1" group-title="Спорт", XSPORT
+http://cn02.iptv.monster/play/480/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="345" tvg-rec="1" tvg-name="Русский Экстрим" timeshift="1" group-title="Спорт", Русский Экстрим
+http://cn02.iptv.monster/play/345/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="601" tvg-name="Точка отрыва" group-title="Спорт", Точка отрыва
+http://cn02.iptv.monster/play/601/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Авто 24" group-title="Спорт", Авто 24
+http://cn02.iptv.monster/play/256/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Bein Sport HD 1 AR" group-title="Спорт", Bein Sport HD 1 AR
+http://cn04.iptv.monster/play/1101/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Bein Sport HD 2 AR" group-title="Спорт", Bein Sport HD 2 AR
+http://cn04.iptv.monster/play/1102/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Bein Sport HD 3 AR" group-title="Спорт", Bein Sport HD 3 AR
+http://cn04.iptv.monster/play/1103/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Bein Sport HD 4 AR" group-title="Спорт", Bein Sport HD 4 AR
+http://cn04.iptv.monster/play/1104/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Bein Sport HD 5 AR" group-title="Спорт", Bein Sport HD 5 AR
+http://cn04.iptv.monster/play/1105/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Bein Sport HD 6 AR" group-title="Спорт", Bein Sport HD 6 AR
+http://cn04.iptv.monster/play/1106/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Bein Sport HD 9 AR" group-title="Спорт", Bein Sport HD 9 AR
+http://cn04.iptv.monster/play/1109/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Bein Sport HD 10 AR" group-title="Спорт", Bein Sport HD 10 AR
+http://cn04.iptv.monster/play/1110/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Bein Sport HD 12 AR" group-title="Спорт", Bein Sport HD 12 AR
+http://cn04.iptv.monster/play/1112/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Bein Sport HD 13 AR" group-title="Спорт", Bein Sport HD 13 AR
+http://cn04.iptv.monster/play/1113/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="922" tvg-name="BT Sport 1 UK" group-title="Спорт", BT Sport 1 UK
+http://cn04.iptv.monster/play/922/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="923" tvg-rec="1" tvg-name="BT Sport 2 UK" timeshift="1" group-title="Спорт", BT Sport 2 UK
+http://cn04.iptv.monster/play/923/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="272" tvg-rec="1" tvg-name="Discovery HD Showcase" timeshift="1" group-title="Познавательные", Discovery HD Showcase
+http://cn02.iptv.monster/play/272/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="391" tvg-rec="1" tvg-name="Discovery Science HD" timeshift="1" group-title="Познавательные", Discovery Science HD
+http://cn02.iptv.monster/play/391/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="147" tvg-rec="1" tvg-name="Discovery Channel HD" timeshift="1" group-title="Познавательные", Discovery Channel HD
+http://cn02.iptv.monster/play/147/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="362" tvg-rec="1" tvg-name="Investigation Discovery" timeshift="1" group-title="Познавательные", Investigation Discovery
+http://cn02.iptv.monster/play/362/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="392" tvg-rec="1" tvg-name="ID Xtra" timeshift="1" group-title="Познавательные", ID Xtra
+http://cn02.iptv.monster/play/392/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="143" tvg-rec="1" tvg-name="National Geographic HD" timeshift="1" group-title="Познавательные", National Geographic HD
+http://cn02.iptv.monster/play/143/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="31" tvg-rec="1" tvg-name="National Geographic" timeshift="1" group-title="Познавательные", National Geographic
+http://cn02.iptv.monster/play/31/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="162" tvg-rec="1" tvg-name="Nat Geo Wild HD" timeshift="1" group-title="Познавательные", Nat Geo Wild HD
+http://cn02.iptv.monster/play/162/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="175" tvg-rec="1" tvg-name="Animal Planet HD" timeshift="1" group-title="Познавательные", Animal Planet HD
+http://cn02.iptv.monster/play/175/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="142" tvg-name="HD Life" group-title="Познавательные", HD Life
+http://cn02.iptv.monster/play/142/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="79" tvg-rec="1" tvg-name="Viasat Explore" timeshift="1" group-title="Познавательные", Viasat Explore
+http://cn02.iptv.monster/play/79/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="78" tvg-rec="1" tvg-name="Viasat History" timeshift="1" group-title="Познавательные", Viasat History
+http://cn02.iptv.monster/play/78/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="119" tvg-rec="1" tvg-name="Viasat Nature" timeshift="1" group-title="Познавательные", Viasat Nature
+http://cn02.iptv.monster/play/119/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="189" tvg-name="TLC HD" group-title="Познавательные", TLC HD
+http://cn02.iptv.monster/play/189/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="190" tvg-name="Travel Channel HD" group-title="Познавательные", Travel Channel HD
+http://cn02.iptv.monster/play/190/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="186" tvg-name="Russian Travel Guide HD" group-title="Познавательные", Russian Travel Guide HD
+http://cn02.iptv.monster/play/186/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="188" tvg-name="History HD" group-title="Познавательные", History HD
+http://cn02.iptv.monster/play/188/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="491" tvg-name="Viasat History HD" group-title="Познавательные", Viasat History HD
+http://cn02.iptv.monster/play/491/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="140" tvg-name="Приключения  HD" group-title="Познавательные", Приключения  HD
+http://cn02.iptv.monster/play/140/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="180" tvg-rec="1" tvg-name="Travel+Adventure HD" timeshift="1" group-title="Познавательные", Travel+Adventure HD
+http://cn04.iptv.monster/play/180/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="494" tvg-rec="1" tvg-name="Глазами туриста HD" timeshift="1" group-title="Познавательные", Глазами туриста HD
+http://cn04.iptv.monster/play/494/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="324" tvg-rec="1" tvg-name="Живая природа HD" timeshift="1" group-title="Познавательные", Живая природа HD
+http://cn04.iptv.monster/play/324/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="390" tvg-rec="1" tvg-name="Живая планета" timeshift="1" group-title="Познавательные", Живая планета
+http://cn04.iptv.monster/play/390/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="364" tvg-rec="1" tvg-name="Охотник и рыболов HD" timeshift="1" group-title="Познавательные", Охотник и рыболов HD
+http://cn02.iptv.monster/play/364/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="88" tvg-rec="1" tvg-name="Охота и Рыбалка" timeshift="1" group-title="Познавательные", Охота и Рыбалка
+http://cn02.iptv.monster/play/88/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="303" tvg-rec="1" tvg-name="Загородная Жизнь" timeshift="1" group-title="Познавательные", Загородная Жизнь
+http://cn02.iptv.monster/play/303/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="385" tvg-rec="1" tvg-name="Загородный" timeshift="1" group-title="Познавательные", Загородный
+http://cn02.iptv.monster/play/385/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="80" tvg-rec="1" tvg-name="Усадьба" timeshift="1" group-title="Познавательные", Усадьба
+http://cn02.iptv.monster/play/80/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="600" tvg-name="Дикий" group-title="Познавательные", Дикий
+http://cn02.iptv.monster/play/600/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-rec="1" tvg-name="Победа" timeshift="1" group-title="Познавательные", Победа
+http://cn04.iptv.monster/play/3770/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="229" tvg-name="Man TV" group-title="Познавательные", Man TV
+http://cn02.iptv.monster/play/229/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="155" tvg-name="Наука 2.0" group-title="Познавательные", Наука 2.0
+http://cn02.iptv.monster/play/155/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="135" tvg-name="Моя Планета" group-title="Познавательные", Моя Планета
+http://cn02.iptv.monster/play/135/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="224" tvg-name="Сов. Секретно" group-title="Познавательные", Сов. Секретно
+http://cn02.iptv.monster/play/224/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="214" tvg-name="Кто есть кто" group-title="Познавательные", Кто есть кто
+http://cn02.iptv.monster/play/214/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="273" tvg-rec="1" tvg-name="История" timeshift="1" group-title="Познавательные", История
+http://cn02.iptv.monster/play/273/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="207" tvg-name="365 дней ТВ" group-title="Познавательные", 365 дней ТВ
+http://cn02.iptv.monster/play/207/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="263" tvg-name="Первый образовательный" group-title="Познавательные", Первый образовательный
+http://cn02.iptv.monster/play/263/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="122" tvg-name="Психология 21" group-title="Познавательные", Психология 21
+http://cn02.iptv.monster/play/122/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="123" tvg-name="Вопросы и ответы" group-title="Познавательные", Вопросы и ответы
+http://cn02.iptv.monster/play/123/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="233" tvg-name="360°" group-title="Познавательные", 360°
+http://cn02.iptv.monster/play/233/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="366" tvg-rec="1" tvg-name="Оружие" timeshift="1" group-title="Познавательные", Оружие
+http://cn04.iptv.monster/play/366/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="262" tvg-name="Outdoor Channel" group-title="Познавательные", Outdoor Channel
+http://cn02.iptv.monster/play/262/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="120" tvg-name="Da Vinci Learning" group-title="Познавательные", Da Vinci Learning
+http://cn02.iptv.monster/play/120/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="121" tvg-name="Домашние Животные" group-title="Познавательные", Домашние Животные
+http://cn02.iptv.monster/play/121/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="264" tvg-rec="1" tvg-name="Ocean TV" timeshift="1" group-title="Познавательные", Ocean TV
+http://cn04.iptv.monster/play/264/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="288" tvg-rec="1" tvg-name="Galaxy" timeshift="1" group-title="Познавательные", Galaxy
+http://cn04.iptv.monster/play/288/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="337" tvg-rec="1" tvg-name="Морской" timeshift="1" group-title="Познавательные", Морской
+http://cn04.iptv.monster/play/337/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="247" tvg-rec="1" tvg-name="Телепутешествия" timeshift="1" group-title="Познавательные", Телепутешествия
+http://cn04.iptv.monster/play/247/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="372" tvg-rec="1" tvg-name="В мире животных HD" timeshift="1" group-title="Познавательные", В мире животных HD
+http://cn04.iptv.monster/play/372/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="373" tvg-rec="1" tvg-name="Eureka HD" timeshift="1" group-title="Познавательные", Eureka HD
+http://cn04.iptv.monster/play/373/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="374" tvg-rec="1" tvg-name="Планета HD" timeshift="1" group-title="Познавательные", Планета HD
+http://cn04.iptv.monster/play/374/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="25" tvg-rec="1" tvg-name="DTX" timeshift="1" group-title="Познавательные", DTX
+http://cn04.iptv.monster/play/25/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="124" tvg-rec="1" tvg-name="Fine living HD" timeshift="1" group-title="Познавательные", Fine living HD
+http://cn04.iptv.monster/play/124/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="161" tvg-rec="1" tvg-name="H2 HD" timeshift="1" group-title="Познавательные", H2 HD
+http://cn04.iptv.monster/play/161/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="27" tvg-rec="1" tvg-name="CBS Reality" timeshift="1" group-title="Познавательные", CBS Reality
+http://cn04.iptv.monster/play/27/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="89" tvg-rec="1" tvg-name="ЕГЭ ТВ" timeshift="1" group-title="Познавательные", ЕГЭ ТВ
+http://cn04.iptv.monster/play/89/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="97" tvg-rec="1" tvg-name="Драйв" timeshift="1" group-title="Познавательные", Драйв
+http://cn04.iptv.monster/play/97/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-rec="1" tvg-name="Т24" timeshift="1" group-title="Познавательные", Т24
+http://cn04.iptv.monster/play/101/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="106" tvg-rec="1" tvg-name="RTG TV" timeshift="1" group-title="Познавательные", RTG TV
+http://cn04.iptv.monster/play/106/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-rec="1" tvg-name="Зоопарк" timeshift="1" group-title="Познавательные", Зоопарк
+http://cn04.iptv.monster/play/108/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="174" tvg-name="Nickelodeon HD" group-title="Детские", Nickelodeon HD
+http://cn02.iptv.monster/play/174/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="240" tvg-name="Nick Jr." group-title="Детские", Nick Jr.
+http://cn02.iptv.monster/play/240/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="217" tvg-name="Gulli" group-title="Детские", Gulli
+http://cn02.iptv.monster/play/217/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="166" tvg-name="Jim Jam" group-title="Детские", Jim Jam
+http://cn02.iptv.monster/play/166/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="57" tvg-name="Disney" group-title="Детские", Disney
+http://cn02.iptv.monster/play/57/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="286" tvg-rec="1" tvg-name="Boomerang" timeshift="1" group-title="Детские", Boomerang
+http://cn04.iptv.monster/play/286/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="218" tvg-name="Tiji TV" group-title="Детские", Tiji TV
+http://cn02.iptv.monster/play/218/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="360" tvg-name="Baby TV" group-title="Детские", Baby TV
+http://cn02.iptv.monster/play/360/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="52" tvg-name="Cartoon Network" group-title="Детские", Cartoon Network
+http://cn02.iptv.monster/play/52/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="20" tvg-name="Детский мир" group-title="Детские", Детский мир
+http://cn02.iptv.monster/play/20/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="98" tvg-name="Детский" group-title="Детские", Детский
+http://cn02.iptv.monster/play/98/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="200" tvg-name="Мульт" group-title="Детские", Мульт
+http://cn02.iptv.monster/play/200/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="40" tvg-name="Карусель" group-title="Детские", Карусель
+http://cn02.iptv.monster/play/40/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="116" tvg-name="Мультимания" group-title="Детские", Мультимания
+http://cn02.iptv.monster/play/116/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="788" tvg-name="Малыш" group-title="Детские", Малыш
+http://cn02.iptv.monster/play/788/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="193" tvg-name="В гостях у сказки" group-title="Детские", В гостях у сказки
+http://cn02.iptv.monster/play/193/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="409" tvg-name="Пиксель" group-title="Детские", Пиксель
+http://cn04.iptv.monster/play/409/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="387" tvg-name="Мультик HD" group-title="Детские", Мультик HD
+http://cn04.iptv.monster/play/387/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="TLUM HD" group-title="Детские", TLUM HD
+http://cn04.iptv.monster/play/312/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="393" tvg-name="Ani" group-title="Детские", Ani
+http://cn04.iptv.monster/play/393/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-rec="1" tvg-name="Капитан Фантастика" timeshift="1" group-title="Детские", Капитан Фантастика
+http://cn04.iptv.monster/play/384/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="248" tvg-rec="1" tvg-name="Рыжий" timeshift="1" group-title="Детские", Рыжий
+http://cn04.iptv.monster/play/248/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="100" tvg-rec="1" tvg-name="2x2" timeshift="1" group-title="Детские", 2x2
+http://cn02.iptv.monster/play/100/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="300" tvg-name="Радость моя" group-title="Детские", Радость моя
+http://cn04.iptv.monster/play/300/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="182" tvg-name="О!" group-title="Детские", О!
+http://cn02.iptv.monster/play/182/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="90" tvg-name="Мама" group-title="Разное", Мама
+http://cn02.iptv.monster/play/90/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Fashion TV HD" group-title="Разное", Fashion TV HD
+http://cn02.iptv.monster/play/227/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Mute HD" group-title="Разное", Mute HD
+http://cn04.iptv.monster/play/377/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="58" tvg-name="Доктор" group-title="Разное", Доктор
+http://cn04.iptv.monster/play/58/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="99" tvg-name="Здоровое ТВ" group-title="Разное", Здоровое ТВ
+http://cn04.iptv.monster/play/99/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="252" tvg-rec="1" tvg-name="Здоровье" timeshift="1" group-title="Разное", Здоровье
+http://cn04.iptv.monster/play/252/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="333" tvg-name="Театр" group-title="Разное", Театр
+http://cn04.iptv.monster/play/333/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="38" tvg-name="Кухня ТВ" group-title="Разное", Кухня ТВ
+http://cn02.iptv.monster/play/38/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="141" tvg-name="Еда HD" group-title="Разное", Еда HD
+http://cn02.iptv.monster/play/141/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="335" tvg-name="Первый вегетарианский" group-title="Разное", Первый вегетарианский
+http://cn04.iptv.monster/play/335/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="70" tvg-rec="1" tvg-name="Союз" timeshift="1" group-title="Разное", Союз
+http://cn04.iptv.monster/play/70/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="87" tvg-rec="1" tvg-name="Ретро" timeshift="1" group-title="Разное", Ретро
+http://cn04.iptv.monster/play/87/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="304" tvg-name="Синергия ТВ" group-title="Разное", Синергия ТВ
+http://cn04.iptv.monster/play/304/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="216" tvg-rec="1" tvg-name="ТБН" timeshift="1" group-title="Разное", ТБН
+http://cn04.iptv.monster/play/216/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="210" tvg-rec="1" tvg-name="Успех" timeshift="1" group-title="Разное", Успех
+http://cn04.iptv.monster/play/210/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="206" tvg-name="Ностальгия" group-title="Разное", Ностальгия
+http://cn04.iptv.monster/play/206/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="168" tvg-rec="1" tvg-name="ТДК" timeshift="1" group-title="Разное", ТДК
+http://cn04.iptv.monster/play/168/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="112" tvg-rec="1" tvg-name="Живи!" timeshift="1" group-title="Разное", Живи!
+http://cn04.iptv.monster/play/112/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="117" tvg-rec="1" tvg-name="Сарафан" timeshift="1" group-title="Разное", Сарафан
+http://cn04.iptv.monster/play/117/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="60" tvg-name="Спас ТВ" group-title="Разное", Спас ТВ
+http://cn02.iptv.monster/play/60/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="215" tvg-rec="1" tvg-name="Просвещение" timeshift="1" group-title="Разное", Просвещение
+http://cn04.iptv.monster/play/215/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-rec="1" tvg-name="E!" timeshift="1" group-title="Разное", E!
+http://cn04.iptv.monster/play/221/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="245" tvg-rec="1" tvg-name="Zee TV" timeshift="1" group-title="Разное", Zee TV
+http://cn04.iptv.monster/play/245/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="251" tvg-rec="1" tvg-name="Точка-ТВ" timeshift="1" group-title="Разное", Точка-ТВ
+http://cn04.iptv.monster/play/251/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="396" tvg-rec="1" tvg-name="Бобер" timeshift="1" group-title="Разное", Бобер
+http://cn04.iptv.monster/play/396/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="157" tvg-name="English Club TV" group-title="Разное", English Club TV
+http://cn02.iptv.monster/play/157/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="104" tvg-rec="1" tvg-name="CNN" timeshift="1" group-title="Новости", CNN
+http://cn04.iptv.monster/play/104/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="244" tvg-name="Russia Today Doc HD" group-title="Новости", Russia Today Doc HD
+http://cn02.iptv.monster/play/244/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="Euronews" group-title="Новости", Euronews
+http://cn02.iptv.monster/play/17/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="105" tvg-rec="1" tvg-name="BBC World News" timeshift="1" group-title="Новости", BBC World News
+http://cn04.iptv.monster/play/105/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="249" tvg-rec="1" tvg-name="RT Doc" timeshift="1" group-title="Новости", RT Doc
+http://cn04.iptv.monster/play/249/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="236" tvg-rec="1" tvg-name="Мир 24" timeshift="1" group-title="Новости", Мир 24
+http://cn04.iptv.monster/play/236/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="RT English" group-title="Новости", RT English
+http://cn04.iptv.monster/play/203/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="238" tvg-name="MTV Hits" group-title="Музыкальные", MTV Hits
+http://cn02.iptv.monster/play/238/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="239" tvg-name="MTV Rocks" group-title="Музыкальные", MTV Rocks
+http://cn02.iptv.monster/play/239/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="46" tvg-name="MTV Dance" group-title="Музыкальные", MTV Dance
+http://cn02.iptv.monster/play/46/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="144" tvg-name="MTV Live HD" group-title="Музыкальные", MTV Live HD
+http://cn02.iptv.monster/play/144/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="MTV Россия HD" group-title="Музыкальные", MTV Россия HD
+http://cn02.iptv.monster/play/3736/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="277" tvg-name="MTV Russia" group-title="Музыкальные", MTV Russia
+http://cn02.iptv.monster/play/277/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="МУЗ" group-title="Музыкальные", МУЗ
+http://cn02.iptv.monster/play/10/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="ТНТ MUSIC" group-title="Музыкальные", ТНТ MUSIC
+http://cn02.iptv.monster/play/71/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="960" tvg-name="Trace Urban HD" group-title="Музыкальные", Trace Urban HD
+http://cn04.iptv.monster/play/960/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="1HD" group-title="Музыкальные", 1HD
+http://cn04.iptv.monster/play/110/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="154" tvg-name="BRIDGE HD" group-title="Музыкальные", BRIDGE HD
+http://cn02.iptv.monster/play/154/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="C-Music HD" group-title="Музыкальные", C-Music HD
+http://cn02.iptv.monster/play/127/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="51" tvg-name="VH1 Classic" group-title="Музыкальные", VH1 Classic
+http://cn02.iptv.monster/play/51/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="67" tvg-name="Шансон ТВ" group-title="Музыкальные", Шансон ТВ
+http://cn02.iptv.monster/play/67/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="63" tvg-name="RU.TV" group-title="Музыкальные", RU.TV
+http://cn02.iptv.monster/play/63/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="133" tvg-name="Музыка" group-title="Музыкальные", Музыка
+http://cn02.iptv.monster/play/133/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="230" tvg-name="Music Box" group-title="Музыкальные", Music Box
+http://cn02.iptv.monster/play/230/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="909" tvg-name="М1" group-title="Музыкальные", М1
+http://cn02.iptv.monster/play/909/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="278" tvg-name="VH1 Europe" group-title="Музыкальные", VH1 Europe
+http://cn02.iptv.monster/play/278/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="305" tvg-name="О2ТВ" group-title="Музыкальные", О2ТВ
+http://cn04.iptv.monster/play/305/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="TMB RU" group-title="Музыкальные", TMB RU
+http://cn04.iptv.monster/play/287/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="222" tvg-rec="1" tvg-name="Ля-минор" timeshift="1" group-title="Музыкальные", Ля-минор
+http://cn04.iptv.monster/play/222/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="158" tvg-name="Bridge TV русский хит" group-title="Музыкальные", Bridge TV русский хит
+http://cn04.iptv.monster/play/158/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="72" tvg-name="Dange TV" group-title="Музыкальные", Dange TV
+http://cn04.iptv.monster/play/72/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="45" tvg-name="MCM Top" group-title="Музыкальные", MCM Top
+http://cn02.iptv.monster/play/45/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="1460" tvg-name="Беларусь 1 BY" group-title="Belarus", Беларусь 1 BY
+http://cn02.iptv.monster/play/1460/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="1465" tvg-name="Беларусь 2 BY" group-title="Belarus", Беларусь 2 BY
+http://cn02.iptv.monster/play/1465/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="1466" tvg-name="Беларусь 3 BY" group-title="Belarus", Беларусь 3 BY
+http://cn02.iptv.monster/play/1466/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="1467" tvg-name="Беларусь 5 BY" group-title="Belarus", Беларусь 5 BY
+http://cn02.iptv.monster/play/1467/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="3794" tvg-name="8 Канал HD BY" group-title="Belarus", 8 Канал HD BY
+http://cn04.iptv.monster/play/3794/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="341" tvg-name="Беларусь 24" group-title="Belarus", Беларусь 24
+http://cn04.iptv.monster/play/341/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="РТР BY" group-title="Belarus", РТР BY
+http://cn04.iptv.monster/play/3791/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="ВТВ (СТС) BY" group-title="Belarus", ВТВ (СТС) BY
+http://cn02.iptv.monster/play/1469/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="СТВ BY" group-title="Belarus", СТВ BY
+http://cn02.iptv.monster/play/1462/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="ОНТ BY" group-title="Belarus", ОНТ BY
+http://cn02.iptv.monster/play/1461/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Cinema HD BY" group-title="Belarus", Cinema HD BY
+http://cn04.iptv.monster/play/3793/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="875" tvg-name="TV1 LT" group-title="Baltic", TV1 LT
+http://cn04.iptv.monster/play/875/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="LTV1" group-title="Baltic", LTV1
+http://cn02.iptv.monster/play/869/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="867" tvg-name="LNT LV" group-title="Baltic", LNT LV
+http://cn02.iptv.monster/play/867/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="862" tvg-name="3+ LV" group-title="Baltic", 3+ LV
+http://cn02.iptv.monster/play/862/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="861" tvg-name="TV3 LV" group-title="Baltic", TV3 LV
+http://cn02.iptv.monster/play/861/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="865" tvg-name="TV3 LT" group-title="Baltic", TV3 LT
+http://cn02.iptv.monster/play/865/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="864" tvg-name="TV6 LV" group-title="Baltic", TV6 LV
+http://cn02.iptv.monster/play/864/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="866" tvg-name="TV6 LT" group-title="Baltic", TV6 LT
+http://cn02.iptv.monster/play/866/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="871" tvg-name="LTV7" group-title="Baltic", LTV7
+http://cn02.iptv.monster/play/871/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="872" tvg-name="TV8 LT" group-title="Baltic", TV8 LT
+http://cn02.iptv.monster/play/872/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="873" tvg-name="LRT Televizija LT" group-title="Baltic", LRT Televizija LT
+http://cn02.iptv.monster/play/873/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="LNK LV" group-title="Baltic", LNK LV
+http://cn02.iptv.monster/play/876/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="877" tvg-name="Lietuvos Rytas LT" group-title="Baltic", Lietuvos Rytas LT
+http://cn02.iptv.monster/play/877/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Polsat 2 HD PL" group-title="Poland", Polsat 2 HD PL
+http://cn04.iptv.monster/play/1913/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="HBO 2 HD PL" group-title="Poland", HBO 2 HD PL
+http://cn04.iptv.monster/play/1928/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="TV4 HD PL" group-title="Poland", TV4 HD PL
+http://cn04.iptv.monster/play/1918/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="BBC HD Nordic PL" group-title="Poland", BBC HD Nordic PL
+http://cn04.iptv.monster/play/1927/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="BBC Earth Polska HD PL" group-title="Poland", BBC Earth Polska HD PL
+http://cn04.iptv.monster/play/1930/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Eleven HD PL" group-title="Poland", Eleven HD PL
+http://cn04.iptv.monster/play/1903/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Discovery Historia PL" group-title="Poland", Discovery Historia PL
+http://cn04.iptv.monster/play/1921/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Planete+ HD PL" group-title="Poland", Planete+ HD PL
+http://cn04.iptv.monster/play/1936/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Zest TV (23-05) PL" group-title="Poland", Zest TV (23-05) PL
+http://cn04.iptv.monster/play/1922/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Teletoon+ HD PL" group-title="Poland", Teletoon+ HD PL
+http://cn04.iptv.monster/play/1935/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Kino Polska Muzyka PL" group-title="Poland", Kino Polska Muzyka PL
+http://cn04.iptv.monster/play/1920/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Polsat Film HD PL" group-title="Poland", Polsat Film HD PL
+http://cn04.iptv.monster/play/1915/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Canal+ Film HD PL" group-title="Poland", Canal+ Film HD PL
+http://cn04.iptv.monster/play/1933/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Canal+ Family HD PL" group-title="Poland", Canal+ Family HD PL
+http://cn04.iptv.monster/play/1934/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Ale Kino+ HD PL" group-title="Poland", Ale Kino+ HD PL
+http://cn04.iptv.monster/play/1938/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Canal+ Seriale HD PL" group-title="Poland", Canal+ Seriale HD PL
+http://cn04.iptv.monster/play/1939/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Polsat Play HD PL" group-title="Poland", Polsat Play HD PL
+http://cn04.iptv.monster/play/1916/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Kuchnia+ HD PL" group-title="Poland", Kuchnia+ HD PL
+http://cn04.iptv.monster/play/1937/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Polsat Cafe HD PL" group-title="Poland", Polsat Cafe HD PL
+http://cn04.iptv.monster/play/1914/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Fightklub HD PL" group-title="Poland", Fightklub HD PL
+http://cn04.iptv.monster/play/1905/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Sport Klub PL" group-title="Poland", Sport Klub PL
+http://cn04.iptv.monster/play/1925/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="TVP Sport HD PL" group-title="Poland", TVP Sport HD PL
+http://cn04.iptv.monster/play/1910/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-rec="1" tvg-name="Eleven Sports HD PL" timeshift="1" group-title="Poland", Eleven Sports HD PL
+http://cn04.iptv.monster/play/1904/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="YES 1" group-title="Izrael", YES 1
+http://cn04.iptv.monster/play/1518/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="YES 2" group-title="Izrael", YES 2
+http://cn04.iptv.monster/play/1517/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="YES 4" group-title="Izrael", YES 4
+http://cn04.iptv.monster/play/1515/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="YES 5" group-title="Izrael", YES 5
+http://cn04.iptv.monster/play/1514/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Channel 1 HD IL" group-title="Izrael", Channel 1 HD IL
+http://cn04.iptv.monster/play/1546/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Channel 8 IL" group-title="Izrael", Channel 8 IL
+http://cn04.iptv.monster/play/1541/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Channel 9 IL" group-title="Izrael", Channel 9 IL
+http://cn04.iptv.monster/play/472/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Channel 11 IL" group-title="Izrael", Channel 11 IL
+http://cn04.iptv.monster/play/473/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-rec="1" tvg-name="Channel 12 IL" timeshift="1" group-title="Izrael", Channel 12 IL
+http://cn04.iptv.monster/play/470/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Channel 13 IL" group-title="Izrael", Channel 13 IL
+http://cn04.iptv.monster/play/471/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Channel 20 IL" group-title="Izrael", Channel 20 IL
+http://cn04.iptv.monster/play/478/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Yes ACTION HD IL" group-title="Izrael", Yes ACTION HD IL
+http://cn04.iptv.monster/play/1513/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Yes COMEDY HD IL" group-title="Izrael", Yes COMEDY HD IL
+http://cn04.iptv.monster/play/1512/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Yes DOCU HD IL" group-title="Izrael", Yes DOCU HD IL
+http://cn04.iptv.monster/play/1511/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Yes DRAMA HD IL" group-title="Izrael", Yes DRAMA HD IL
+http://cn04.iptv.monster/play/1510/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Yes Israeli Cinema" group-title="Izrael", Yes Israeli Cinema
+http://cn04.iptv.monster/play/1509/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="YES OH HD IL" group-title="Izrael", YES OH HD IL
+http://cn04.iptv.monster/play/1508/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="ONE HD IL" group-title="Izrael", ONE HD IL
+http://cn04.iptv.monster/play/1506/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="ZONE HD IL" group-title="Izrael", ZONE HD IL
+http://cn04.iptv.monster/play/1529/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="ZOOM IL" group-title="Izrael", ZOOM IL
+http://cn04.iptv.monster/play/1528/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="DRAMA HD IL" group-title="Izrael", DRAMA HD IL
+http://cn04.iptv.monster/play/1526/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="FUN HD IL" group-title="Izrael", FUN HD IL
+http://cn04.iptv.monster/play/1525/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Good Life IL" group-title="Izrael", Good Life IL
+http://cn04.iptv.monster/play/1524/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="PLUS+ HD IL" group-title="Izrael", PLUS+ HD IL
+http://cn04.iptv.monster/play/1523/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Yes WIZ Kidz IL" group-title="Izrael", Yes WIZ Kidz IL
+http://cn04.iptv.monster/play/1564/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Yamtihoni IL" group-title="Izrael", Yamtihoni IL
+http://cn04.iptv.monster/play/1567/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="VIVA IL" group-title="Izrael", VIVA IL
+http://cn04.iptv.monster/play/1563/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="i24 IL" group-title="Izrael", i24 IL
+http://cn04.iptv.monster/play/1562/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Prime IL" group-title="Izrael", Prime IL
+http://cn04.iptv.monster/play/1561/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Bombay IL" group-title="Izrael", Bombay IL
+http://cn04.iptv.monster/play/1560/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Yaldut IL" group-title="Izrael", Yaldut IL
+http://cn04.iptv.monster/play/1559/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Viva+ IL" group-title="Izrael", Viva+ IL
+http://cn04.iptv.monster/play/1556/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Mikan IL" group-title="Izrael", Mikan IL
+http://cn04.iptv.monster/play/1555/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Kabala IL" group-title="Izrael", Kabala IL
+http://cn04.iptv.monster/play/1554/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Entertainment IL" group-title="Izrael", Entertainment IL
+http://cn04.iptv.monster/play/1553/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Health IL" group-title="Izrael", Health IL
+http://cn04.iptv.monster/play/1552/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Food Network IL" group-title="Izrael", Food Network IL
+http://cn04.iptv.monster/play/1551/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Ego Total IL" group-title="Izrael", Ego Total IL
+http://cn04.iptv.monster/play/1550/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Big Brother IL" group-title="Izrael", Big Brother IL
+http://cn04.iptv.monster/play/1549/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="GOLD HD IL" group-title="Izrael", GOLD HD IL
+http://cn04.iptv.monster/play/1545/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="ACTION HD IL" group-title="Izrael", ACTION HD IL
+http://cn04.iptv.monster/play/1544/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Baby IL" group-title="Izrael", Baby IL
+http://cn04.iptv.monster/play/1542/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Hop! Childhood IL" group-title="Izrael", Hop! Childhood IL
+http://cn04.iptv.monster/play/1538/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="HOT3 HD IL" group-title="Izrael", HOT3 HD IL
+http://cn04.iptv.monster/play/1537/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Junior IL" group-title="Izrael", Junior IL
+http://cn04.iptv.monster/play/1536/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Logi IL" group-title="Izrael", Logi IL
+http://cn04.iptv.monster/play/1535/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Luli IL" group-title="Izrael", Luli IL
+http://cn04.iptv.monster/play/1534/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Nickelodeon IL" group-title="Izrael", Nickelodeon IL
+http://cn04.iptv.monster/play/1532/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Travel Channel IL" group-title="Izrael", Travel Channel IL
+http://cn04.iptv.monster/play/1530/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Home Plus IL" group-title="Izrael", Home Plus IL
+http://cn04.iptv.monster/play/1503/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="hop IL" group-title="Izrael", hop IL
+http://cn04.iptv.monster/play/1502/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Nick Jr IL" group-title="Izrael", Nick Jr IL
+http://cn04.iptv.monster/play/1501/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Disney IL" group-title="Izrael", Disney IL
+http://cn04.iptv.monster/play/476/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Disney Jr IL" group-title="Izrael", Disney Jr IL
+http://cn04.iptv.monster/play/474/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="music 24 IL" group-title="Izrael", music 24 IL
+http://cn04.iptv.monster/play/1505/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Sport 1 HD IL" group-title="Izrael", Sport 1 HD IL
+http://cn04.iptv.monster/play/1522/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="SPORT 2 HD IL" group-title="Izrael", SPORT 2 HD IL
+http://cn04.iptv.monster/play/1521/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Sport 5 HD IL" group-title="Izrael", Sport 5 HD IL
+http://cn04.iptv.monster/play/1507/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Sport 3 HD IL" group-title="Izrael", Sport 3 HD IL
+http://cn04.iptv.monster/play/1565/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-rec="1" tvg-name="Sport 4 HD IL" timeshift="1" group-title="Izrael", Sport 4 HD IL
+http://cn04.iptv.monster/play/1566/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Sport 5 IL" group-title="Izrael", Sport 5 IL
+http://cn04.iptv.monster/play/1569/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Sport 5+ Live HD IL" group-title="Izrael", Sport 5+ Live HD IL
+http://cn04.iptv.monster/play/1531/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Fox Sport HD" group-title="Izrael", Fox Sport HD
+http://cn04.iptv.monster/play/1527/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="1 TV GE" group-title="GE", 1 TV GE
+http://cn04.iptv.monster/play/416/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="TV 25 GE" group-title="GE", TV 25 GE
+http://cn04.iptv.monster/play/422/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Imedi TV GE" group-title="GE", Imedi TV GE
+http://cn04.iptv.monster/play/421/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Saperavi TV GE" group-title="GE", Saperavi TV GE
+http://cn04.iptv.monster/play/419/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Maestro GE" group-title="GE", Maestro GE
+http://cn04.iptv.monster/play/418/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="GDS TV GE" group-title="GE", GDS TV GE
+http://cn04.iptv.monster/play/417/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Ajara TV GE" group-title="GE", Ajara TV GE
+http://cn04.iptv.monster/play/427/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Obieqtivi TV GE" group-title="GE", Obieqtivi TV GE
+http://cn04.iptv.monster/play/426/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Pirveli GE" group-title="GE", Pirveli GE
+http://cn04.iptv.monster/play/423/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="801" tvg-name="RTL HD DE" group-title="DE", RTL HD DE
+http://cn04.iptv.monster/play/801/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="803" tvg-name="Super RTL HD DE" group-title="DE", Super RTL HD DE
+http://cn04.iptv.monster/play/803/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="805" tvg-name="RTL 2 HD DE" group-title="DE", RTL 2 HD DE
+http://cn04.iptv.monster/play/805/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="829" tvg-name="RTL Crime DE" group-title="DE", RTL Crime DE
+http://cn04.iptv.monster/play/829/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="804" tvg-name="RTL Nitro HD DE" group-title="DE", RTL Nitro HD DE
+http://cn04.iptv.monster/play/804/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Sky Sport 1 HD DE" group-title="DE", Sky Sport 1 HD DE
+http://cn04.iptv.monster/play/833/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Sky Sport 2 HD DE" group-title="DE", Sky Sport 2 HD DE
+http://cn04.iptv.monster/play/834/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Sky Sport Bundesliga 1 HD DE" group-title="DE", Sky Sport Bundesliga 1 HD DE
+http://cn04.iptv.monster/play/836/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="802" tvg-name="n-tv HD DE" group-title="DE", n-tv HD DE
+http://cn04.iptv.monster/play/802/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="806" tvg-name="Sat.1 HD DE" group-title="DE", Sat.1 HD DE
+http://cn04.iptv.monster/play/806/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="809" tvg-name="N24 HD DE" group-title="DE", N24 HD DE
+http://cn04.iptv.monster/play/809/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="AFN Sports 2 US" group-title="DE", AFN Sports 2 US
+http://cn04.iptv.monster/play/858/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="5129" tvg-name="Sky Sport Austria HD DE" group-title="DE", Sky Sport Austria HD DE
+http://cn04.iptv.monster/play/5129/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="831" tvg-name="Eurosport HD DE" group-title="DE", Eurosport HD DE
+http://cn04.iptv.monster/play/831/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="5136" tvg-name="Eurosport 2 HD DE" group-title="DE", Eurosport 2 HD DE
+http://cn04.iptv.monster/play/5136/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="832" tvg-name="Sky Sport News HD DE" group-title="DE", Sky Sport News HD DE
+http://cn04.iptv.monster/play/832/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="818" tvg-name="Sport 1 HD DE" group-title="DE", Sport 1 HD DE
+http://cn04.iptv.monster/play/818/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="5126" tvg-name="Sky Krimi DE" group-title="DE", Sky Krimi DE
+http://cn04.iptv.monster/play/5126/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="5125" tvg-name="Sky Cinema Nostalgie DE" group-title="DE", Sky Cinema Nostalgie DE
+http://cn04.iptv.monster/play/5125/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="5133" tvg-name="Sky Arts HD DE" group-title="DE", Sky Arts HD DE
+http://cn04.iptv.monster/play/5133/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Sky Cinema Comic-Helden DE" group-title="DE", Sky Cinema Comic-Helden DE
+http://cn04.iptv.monster/play/5130/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="5101" tvg-name="Sky Cinema Family HD DE" group-title="DE", Sky Cinema Family HD DE
+http://cn04.iptv.monster/play/5101/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="918" tvg-name="Sky Atlantic HD DE" group-title="DE", Sky Atlantic HD DE
+http://cn04.iptv.monster/play/918/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="849" tvg-name="Sky Hits HD DE" group-title="DE", Sky Hits HD DE
+http://cn04.iptv.monster/play/849/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="847" tvg-name="Sky Cinema HD DE" group-title="DE", Sky Cinema HD DE
+http://cn04.iptv.monster/play/847/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="846" tvg-name="Sky Cinema Emotion DE" group-title="DE", Sky Cinema Emotion DE
+http://cn04.iptv.monster/play/846/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="845" tvg-name="Sky Cinema Comedy DE" group-title="DE", Sky Cinema Comedy DE
+http://cn04.iptv.monster/play/845/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="844" tvg-name="Sky Cinema Action HD DE" group-title="DE", Sky Cinema Action HD DE
+http://cn04.iptv.monster/play/844/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="5138" tvg-name="Comedy Central HD DE" group-title="DE", Comedy Central HD DE
+http://cn04.iptv.monster/play/5138/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="5107" tvg-name="Universal TV HD DE" group-title="DE", Universal TV HD DE
+http://cn04.iptv.monster/play/5107/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="921" tvg-name="FOX HD DE" group-title="DE", FOX HD DE
+http://cn04.iptv.monster/play/921/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="917" tvg-name="Syfy HD DE" group-title="DE", Syfy HD DE
+http://cn04.iptv.monster/play/917/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="813" tvg-name="VOX HD DE" group-title="DE", VOX HD DE
+http://cn04.iptv.monster/play/813/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="842" tvg-name="TNT Serie HD DE" group-title="DE", TNT Serie HD DE
+http://cn04.iptv.monster/play/842/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="841" tvg-name="TNT Film HD DE" group-title="DE", TNT Film HD DE
+http://cn04.iptv.monster/play/841/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="843" tvg-name="AXN HD DE" group-title="DE", AXN HD DE
+http://cn04.iptv.monster/play/843/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="VIVA/Comedy DE" group-title="DE", VIVA/Comedy DE
+http://cn04.iptv.monster/play/822/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Discovery HD DE" group-title="DE", Discovery HD DE
+http://cn04.iptv.monster/play/5140/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Nat Geo Wild HD DE" group-title="DE", Nat Geo Wild HD DE
+http://cn04.iptv.monster/play/5134/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="NatGeo HD DE" group-title="DE", NatGeo HD DE
+http://cn04.iptv.monster/play/824/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="History HD DE" group-title="DE", History HD DE
+http://cn04.iptv.monster/play/5137/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Nickelodeon HD DE" group-title="DE", Nickelodeon HD DE
+http://cn04.iptv.monster/play/859/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Disney Cinemagic HD DE" group-title="DE", Disney Cinemagic HD DE
+http://cn04.iptv.monster/play/848/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Disney XD DE" group-title="DE", Disney XD DE
+http://cn04.iptv.monster/play/5106/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Junior DE" group-title="DE", Junior DE
+http://cn04.iptv.monster/play/5123/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Boomerang DE" group-title="DE", Boomerang DE
+http://cn04.iptv.monster/play/5102/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Cartoon Network DE" group-title="DE", Cartoon Network DE
+http://cn04.iptv.monster/play/5103/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Disney Jr DE" group-title="DE", Disney Jr DE
+http://cn04.iptv.monster/play/821/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Disney HD DE" group-title="DE", Disney HD DE
+http://cn04.iptv.monster/play/819/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Das Erste HD DE" group-title="DE", Das Erste HD DE
+http://cn04.iptv.monster/play/814/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="arte HD DE" group-title="DE", arte HD DE
+http://cn04.iptv.monster/play/812/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="ZDF HD DE" group-title="DE", ZDF HD DE
+http://cn04.iptv.monster/play/811/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="SIXX HD DE" group-title="DE", SIXX HD DE
+http://cn04.iptv.monster/play/810/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Kabel Eins HD DE" group-title="DE", Kabel Eins HD DE
+http://cn04.iptv.monster/play/808/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="ProSieben HD DE" group-title="DE", ProSieben HD DE
+http://cn04.iptv.monster/play/807/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="WELT HD DE" group-title="DE", WELT HD DE
+http://cn04.iptv.monster/play/5139/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="E! Entertainm. HD DE" group-title="DE", E! Entertainm. HD DE
+http://cn04.iptv.monster/play/5135/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Spiegel Geschichte HD DE" group-title="DE", Spiegel Geschichte HD DE
+http://cn04.iptv.monster/play/5132/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Romance TV DE" group-title="DE", Romance TV DE
+http://cn04.iptv.monster/play/5131/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="A&E DE" group-title="DE", A&E DE
+http://cn04.iptv.monster/play/5128/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Classica DE" group-title="DE", Classica DE
+http://cn04.iptv.monster/play/5127/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Kinowelt TV DE" group-title="DE", Kinowelt TV DE
+http://cn04.iptv.monster/play/5124/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="DMAX HD DE" group-title="DE", DMAX HD DE
+http://cn04.iptv.monster/play/920/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="13th Street HD DE" group-title="DE", 13th Street HD DE
+http://cn04.iptv.monster/play/919/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="NDR HD DE" group-title="DE", NDR HD DE
+http://cn04.iptv.monster/play/839/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="HR HD DE" group-title="DE", HR HD DE
+http://cn04.iptv.monster/play/838/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Anixe HD DE" group-title="DE", Anixe HD DE
+http://cn04.iptv.monster/play/830/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="ORF 2N HD DE" group-title="DE", ORF 2N HD DE
+http://cn04.iptv.monster/play/827/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Motorvision TV DE" group-title="DE", Motorvision TV DE
+http://cn04.iptv.monster/play/828/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-id="826" tvg-name="ORF 1 HD DE" group-title="DE", ORF 1 HD DE
+http://cn04.iptv.monster/play/826/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="ATV DE" group-title="DE", ATV DE
+http://cn04.iptv.monster/play/825/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="KIKA HD DE" group-title="DE", KIKA HD DE
+http://cn04.iptv.monster/play/823/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="ProSieben Maxx HD DE" group-title="DE", ProSieben Maxx HD DE
+http://cn04.iptv.monster/play/817/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="3sat HD DE" group-title="DE", 3sat HD DE
+http://cn04.iptv.monster/play/816/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="WDR HD Aachen DE" group-title="DE", WDR HD Aachen DE
+http://cn04.iptv.monster/play/815/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="InterAz AZ" group-title="AZ", InterAz AZ
+http://cn04.iptv.monster/play/442/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Azad TV AZ" group-title="AZ", Azad TV AZ
+http://cn04.iptv.monster/play/441/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Xazar TV AZ" group-title="AZ", Xazar TV AZ
+http://cn04.iptv.monster/play/440/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Medeniyyet AZ" group-title="AZ", Medeniyyet AZ
+http://cn04.iptv.monster/play/438/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="CBC AZ" group-title="AZ", CBC AZ
+http://cn04.iptv.monster/play/437/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Ictimai TV AZ" group-title="AZ", Ictimai TV AZ
+http://cn04.iptv.monster/play/436/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="AzTV AZ" group-title="AZ", AzTV AZ
+http://cn04.iptv.monster/play/435/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="AMC AZ" group-title="AZ", AMC AZ
+http://cn04.iptv.monster/play/432/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Lider TV AZ" group-title="AZ", Lider TV AZ
+http://cn04.iptv.monster/play/431/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Space TV AZ" group-title="AZ", Space TV AZ
+http://cn04.iptv.monster/play/430/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Samanyolu Haber AZ" group-title="AZ", Samanyolu Haber AZ
+http://cn04.iptv.monster/play/429/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="ANS TV AZ" group-title="AZ", ANS TV AZ
+http://cn04.iptv.monster/play/428/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Gunesh AZ" group-title="AZ", Gunesh AZ
+http://cn04.iptv.monster/play/415/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="T?rkel TV AZ" group-title="AZ", T?rkel TV AZ
+http://cn04.iptv.monster/play/414/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Region TV AZ" group-title="AZ", Region TV AZ
+http://cn04.iptv.monster/play/412/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="CBC Sport AZ" group-title="AZ", CBC Sport AZ
+http://cn04.iptv.monster/play/434/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Idman AZ" group-title="AZ", Idman AZ
+http://cn04.iptv.monster/play/439/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Казахстан KZ" group-title="KZ", Казахстан KZ
+http://cn04.iptv.monster/play/447/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="КТК KZ" group-title="KZ", КТК KZ
+http://cn04.iptv.monster/play/448/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Первый канал Евразия KZ" group-title="KZ", Первый канал Евразия KZ
+http://cn04.iptv.monster/play/449/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Седьмой канал KZ" group-title="KZ", Седьмой канал KZ
+http://cn04.iptv.monster/play/450/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Astana TV KZ" group-title="KZ", Astana TV KZ
+http://cn04.iptv.monster/play/451/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Kazakh TV KZ" group-title="KZ", Kazakh TV KZ
+http://cn04.iptv.monster/play/454/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Новое телевидение KZ" group-title="KZ", Новое телевидение KZ
+http://cn04.iptv.monster/play/455/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="31 канал KZ" group-title="KZ", 31 канал KZ
+http://cn04.iptv.monster/play/456/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="НТК KZ" group-title="KZ", НТК KZ
+http://cn04.iptv.monster/play/457/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="СТВ KZ" group-title="KZ", СТВ KZ
+http://cn04.iptv.monster/play/458/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="ТАН KZ" group-title="KZ", ТАН KZ
+http://cn04.iptv.monster/play/459/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="5 канал KZ" group-title="KZ", 5 канал KZ
+http://cn04.iptv.monster/play/460/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Казахстан Караганда KZ" group-title="KZ", Казахстан Караганда KZ
+http://cn04.iptv.monster/play/461/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Хабар KZ" group-title="KZ", Хабар KZ
+http://cn04.iptv.monster/play/462/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Хабар 24" group-title="KZ", Хабар 24
+http://cn04.iptv.monster/play/464/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="24kz KZ" group-title="KZ", 24kz KZ
+http://cn04.iptv.monster/play/465/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Hit TV KZ" group-title="KZ", Hit TV KZ
+http://cn04.iptv.monster/play/466/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="MuzzOne KZ" group-title="KZ", MuzzOne KZ
+http://cn04.iptv.monster/play/467/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Асыл Арна KZ" group-title="KZ", Асыл Арна KZ
+http://cn04.iptv.monster/play/468/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-rec="1" tvg-name="KazSport KZ" timeshift="1" group-title="KZ", KazSport KZ
+http://cn04.iptv.monster/play/463/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="TV Sinamo TJ" group-title="TJ", TV Sinamo TJ
+http://cn04.iptv.monster/play/486/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Tojikistan HD TJ" group-title="TJ", Tojikistan HD TJ
+http://cn04.iptv.monster/play/911/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Safina HD TJ" group-title="TJ", Safina HD TJ
+http://cn04.iptv.monster/play/912/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Bakhoristan HD TJ" group-title="TJ", Bakhoristan HD TJ
+http://cn04.iptv.monster/play/913/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Jahonnamo TJ" group-title="TJ", Jahonnamo TJ
+http://cn04.iptv.monster/play/914/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Русская Ночь" group-title="Для взрослых", Русская Ночь
+http://cn02.iptv.monster/play/132/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Blue Hustler TV" group-title="Для взрослых", Blue Hustler TV
+http://cn02.iptv.monster/play/107/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Playboy" group-title="Для взрослых", Playboy
+http://cn02.iptv.monster/play/242/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Hustler HD Europe" group-title="Для взрослых", Hustler HD Europe
+http://cn02.iptv.monster/play/592/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Pink'o TV" group-title="Для взрослых", Pink'o TV
+http://cn02.iptv.monster/play/593/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Passion XXX" group-title="Для взрослых", Passion XXX
+http://cn02.iptv.monster/play/596/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Satisfaction HD" group-title="Для взрослых", Satisfaction HD
+http://cn02.iptv.monster/play/598/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Brazzers TV Europe" group-title="Для взрослых", Brazzers TV Europe
+http://cn02.iptv.monster/play/76/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Private HD" group-title="Для взрослых", Private HD
+http://cn04.iptv.monster/play/1499/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Нюарт TV" group-title="Для взрослых", Нюарт TV
+http://cn04.iptv.monster/play/266/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="PRIVE TV" group-title="Для взрослых", PRIVE TV
+http://cn04.iptv.monster/play/4002/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Penthouse Quickies" group-title="Для взрослых", Penthouse Quickies
+http://cn04.iptv.monster/play/4001/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-rec="1" tvg-name="SCT" timeshift="1" group-title="Для взрослых", SCT
+http://cn04.iptv.monster/play/597/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-rec="1" tvg-name="Redlight HD" timeshift="1" group-title="Для взрослых", Redlight HD
+http://cn04.iptv.monster/play/594/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Penthouse Black SD" group-title="Для взрослых", Penthouse Black SD
+http://cn04.iptv.monster/play/3785/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="French Lover" group-title="Для взрослых", French Lover
+http://cn02.iptv.monster/play/1490/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Private TV" group-title="Для взрослых", Private TV
+http://cn02.iptv.monster/play/1491/74F5EB24725C911/video.m3u8
+#EXTINF:-1 tvg-name="Penthouse HD" group-title="Для взрослых", Penthouse HD
+http://cn02.iptv.monster/play/1497/74F5EB24725C911/video.m3u8
